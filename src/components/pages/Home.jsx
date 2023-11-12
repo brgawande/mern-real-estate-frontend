@@ -3,7 +3,7 @@ import SearchIcon from "@mui/icons-material/Search";
 import { Link } from "react-router-dom";
 
 const Home = () => {
-  return <></>;
+  return <>Home</>;
 };
 
 export default Home;
